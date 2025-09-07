@@ -1,4 +1,4 @@
-https://github.com/shreeya-20/Calculator-app
+
 # 🧮 Calculator App
 
 A simple and interactive **Calculator App** built using **HTML**, **CSS**, and **JavaScript**. This app performs basic arithmetic operations with a clean and responsive user interface.
