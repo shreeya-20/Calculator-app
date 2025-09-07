@@ -7,7 +7,7 @@ A simple and interactive **Calculator App** built using **HTML**, **CSS**, and *
 
 ## 🔗 Live Demo
 
-👉 **[Try the Calculator Here](https://github.com/shreeya-20/Calculator-app)**  
+👉 **[Try the Calculator Here](https://shreeya-20.github.io/Calculator-app/)**  
 
 ---
 
